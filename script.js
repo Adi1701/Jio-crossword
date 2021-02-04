@@ -568,7 +568,7 @@
             {
                 clue: "VPN",
                 answer: "VPN",
-                position: 1,
+                position: 0,
                 orientation: "across",
                 startx: 1,
                 starty: 1,
@@ -576,7 +576,7 @@
             {
                 clue: "ARPU",
                 answer: "ARPU",
-                position: 444,
+                position: 1,
                 orientation: "across",
                 startx: 3,
                 starty: 3,
@@ -584,7 +584,7 @@
             {
                 clue: "ENODEB",
                 answer: "ENODEB",
-                position: 4,
+                position: 3,
                 orientation: "across",
                 startx: 1,
                 starty: 5,
@@ -592,7 +592,7 @@
             {
                 clue: "CENTREX",
                 answer: "CENTREX",
-                position: 8,
+                position: 7,
                 orientation: "across",
                 startx: 12,
                 starty: 6,
@@ -600,7 +600,7 @@
             {
                 clue: "JIOFIBER",
                 answer: "JIOFIBER",
-                position: 12,
+                position: 11,
                 orientation: "across",
                 startx: 1,
                 starty: 8,
@@ -608,7 +608,7 @@
             {
                 clue: "ONT",
                 answer: "ONT",
-                position: 15,
+                position: 14,
                 orientation: "across",
                 startx: 6,
                 starty: 11,
@@ -616,7 +616,7 @@
             {
                 clue: "LEASEDLINE",
                 answer: "LEASEDLINE",
-                position: 17,
+                position: 16,
                 orientation: "across",
                 startx: 5,
                 starty: 13,
@@ -624,7 +624,7 @@
             {
                 clue: "PRIMARY",
                 answer: "PRIMARY",
-                position: 19,
+                position: 18,
                 orientation: "across",
                 startx: 9,
                 starty: 17,
@@ -633,7 +633,7 @@
             {
                 clue: "VOLTE",
                 answer: "VOLTE",
-                position: 1,
+                position: 0,
                 orientation: "down",
                 startx: 1,
                 starty: 1,
@@ -641,7 +641,7 @@
             {
                 clue: "PREPAID",
                 answer: "PREPAID",
-                position: 3,
+                position: 2,
                 orientation: "down",
                 startx: 5,
                 starty: 3,
@@ -649,7 +649,7 @@
             {
                 clue: "ACQUISITION",
                 answer: "ACQUISITION",
-                position: 5,
+                position: 4,
                 orientation: "down",
                 startx: 12,
                 starty: 5,
@@ -657,7 +657,7 @@
             {
                 clue: "LTE",
                 answer: "LTE",
-                position: 6,
+                position: 5,
                 orientation: "down",
                 startx: 15,
                 starty: 5,
@@ -665,7 +665,7 @@
             {
                 clue: "POSTPAID",
                 answer: "POSTPAID",
-                position: 7,
+                position: 6,
                 orientation: "down",
                 startx: 10,
                 starty: 6,
@@ -673,7 +673,7 @@
             {
                 clue: "EKYC",
                 answer: "EKYC",
-                position: 9,
+                position: 8,
                 orientation: "down",
                 startx: 17,
                 starty: 6,
@@ -681,7 +681,7 @@
             {
                 clue: "JIOFI",
                 answer: "JIOFI",
-                position: 10,
+                position: 9,
                 orientation: "down",
                 startx: 2,
                 starty: 7,
@@ -689,7 +689,7 @@
             {
                 clue: "SECONDARY",
                 answer: "SECONDARY",
-                position: 11,
+                position: 10,
                 orientation: "down",
                 startx: 7,
                 starty: 7,
@@ -697,7 +697,7 @@
             {
                 clue: "HTB",
                 answer: "Col",
-                position: 13,
+                position: 12,
                 orientation: "down",
                 startx: 14,
                 starty: 8,
@@ -705,7 +705,7 @@
             {
                 clue: "RECHARGE",
                 answer: "RECHARGE",
-                position: 16,
+                position: 11,
                 orientation: "down",
                 startx: 14,
                 starty: 12,
@@ -713,7 +713,7 @@
             {
                 clue: "SIM",
                 answer: "SIM",
-                position: 18,
+                position: 17,
                 orientation: "down",
                 startx: 11,
                 starty: 16,
