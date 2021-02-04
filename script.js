@@ -576,7 +576,7 @@
             {
                 clue: "ARPU",
                 answer: "ARPU",
-                position: 2,
+                position: 444,
                 orientation: "across",
                 startx: 3,
                 starty: 3,
