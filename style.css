@@ -4,11 +4,12 @@
     font-size: 30px;
     margin-bottom: 20px;
     padding: 10px;
-    background-color: #333;
+    background-color:#2D3047;
     color: #fff;
     line-height: normal;
 }
 body {
+    background-color: #CAD5E2;
     margin: 0;
     font: 62.5%/1.3em Helvetica, sans-serif;
 }
