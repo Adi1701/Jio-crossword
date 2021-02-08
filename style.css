@@ -1,13 +1,15 @@
-/*
-    Default puzzle styling
-*/
+
 .headding{
     text-align: center;
     font-size: 30px;
     margin-bottom: 20px;
-    margin-top: 10px;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+    line-height: normal;
 }
 body {
+    margin: 0;
     font: 62.5%/1.3em Helvetica, sans-serif;
 }
 
@@ -72,11 +74,17 @@ input.done {
 }
 
 #puzzle-wrapper {
+    display: flex;
+    justify-content: center;
     
 }
 
 #puzzle-clues {
-    
+    width: fit-content;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
 }
 
 #puzzle-clues li {
